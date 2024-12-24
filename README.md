@@ -8,7 +8,8 @@ Numerous inconsistencies were identified in the available information, necessita
 
 Additionally, the training dataset is highly imbalanced, with the majority of projects falling into the "noRisk" category. To address this, techniques will be employed to mitigate the effects of this imbalance.
 
-The final output has been developing a model to apply for classification of new projects (2021–2027), which can then be monitored at early deadlines with clear risk-level exposure. This approach will enable more proactive management and better allocation of public resources.
+The final output has been developing a model to apply for feature classification of new projects (2021–2027), which can then be monitored at early deadlines with clear risk-level exposure. This approach will enable more proactive management and better allocation of public resources.
+For resources constraints we built different notebook (serialized) and one main to put all together.
 
 The model selected is: [Model](data_output/Lav_1_work_3.3-Esemble_W_BM.pkl)
 
