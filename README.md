@@ -82,7 +82,7 @@ Using **Delay** and **Perc_No_Ue**, projects were labeled into four risk categor
 - **No Risk (Level 0)**: Does not meet any above conditions.
 
 **Visualization**:  
-Risk distribution by region: ![Risk Distribution](Img/Risk_Distrib_x_Region.jpg)
+Risk distribution by region: !(img/Risk_Distrib_x_Region.jpeg)
 
 ---
 
@@ -140,7 +140,7 @@ Focus on predicting high-risk projects, prioritizing **Level 3**, then **Level 2
 
    - [Notebook](2_Lav_1_work_3.3-LR_W.ipynb)
    - Techniques: SMOTE, undersampling, and weighting (this is applied at the end, for the best results)
-   - [Feature Permutation Importance](Img/Permutation_Importance_Media.png) : this cosideration has contribute to re - select the features cycling, to arrive the actual final version.
+   - [Feature Permutation Importance](img/Permutation_Importance_Media.png) : this cosideration has contribute to re - select the features cycling, to arrive the actual final version.
 
    - Final output:
      - [Metrics](data_output/Lav_1_work_3.3-LR_W.pkl)
