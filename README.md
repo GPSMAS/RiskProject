@@ -177,7 +177,7 @@ Focus on predicting high-risk projects, prioritizing **Level 3**, then **Level 2
 - Priority: High recall for **Level 3** and **Level 2**.
 
 **Visualization**:  
-![Recall Comparison](Img/Comparison_of_Recall_Across_Models_and_Classes.jpg)
+![Recall Comparison](img/Comparison_of_Recall_Across_Models_and_Classes.png)
 
 **Best Model**:  
 **Ensemble Stacking** [Model Selected](4_Lav_1_work_3.3-Esemble_stacking_W.ipynb)  
