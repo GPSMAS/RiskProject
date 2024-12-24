@@ -11,7 +11,7 @@ Additionally, the training dataset is highly imbalanced, with the majority of pr
 The final output has been developing a model to apply for feature classification of new projects (2021–2027), which can then be monitored at early deadlines with clear risk-level exposure. This approach will enable more proactive management and better allocation of public resources.
 For resources constraints we built different notebook (serialized) and one main to put all together.
 
-The model selected is: [Model](data_output/Lav_1_work_3.3-Esemble_W_BM.pkl)
+The model selected is: [Model](data_output/Lav_1_work_3.3-Esemble_W_BM.7z) -- need to be decompressed
 
 
 #### Rationale
@@ -152,21 +152,21 @@ Focus on predicting high-risk projects, prioritizing **Level 3**, then **Level 2
    - [Notebook](3_Lav_1_work_3.3-RF_W.ipynb)
    - Outputs:
      - [Metrics](data_output/Lav_1_work_3.3-RF_W.pkl)
-     - [Model](data_output/Lav_1_work_3.3-RF_W_BM.pkl)
+     - [Model](data_output/Lav_1_work_3.3-RF_W_BM.7z) -- need to be decompressed
 
 3. **Ensemble Stacking**:
 
    - [Notebook](4_Lav_1_work_3.3-Esemble_stacking_W.ipynb)
    - Outputs:
      - [Metrics](data_output/Lav_1_work_3.3-Esemble_W.pkl)
-     - [Model](data_output/Lav_1_work_3.3-Esemble_W_BM.pkl)
+     - [Model](data_output/Lav_1_work_3.3-Esemble_W_BM.7z) -- need to be decompressed
 
 4. **Ensemble Voting**:
 
    - [Notebook](5_Lav_1_work_3.3-Esemble_voting_W.ipynb)
    - Outputs:
      - [Metrics](data_output/Lav_1_work_3.3-Esemble_Voting_W.pkl)
-     - [Model](data_output/Lav_1_work_3.3-Esemble_Voting_W_BM.pkl)
+     - [Model](data_output/Lav_1_work_3.3-Esemble_Voting_W_BM.7z) -- need to be decompressed
 
 ---
 
